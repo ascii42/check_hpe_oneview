@@ -336,10 +336,6 @@ This data can be used with tools like:
 **Felix Longardt**  
 GitHub: [@ascii42](https://github.com/ascii42)
 
-## Related Projects
-
-- [check_vmware_cve](https://github.com/ascii42/check_vmware_cve) - VMware CVE monitoring plugin
-
 ## Contributing
 
 1. Fork the repository
