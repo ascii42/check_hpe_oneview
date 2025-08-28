@@ -14,7 +14,7 @@
 # Release: 0.0.2
 #   add proxy support
 # Release: 1.0.0
-#   Fixed missing functions and improved error handling, add synergy
+#   Fixed missing functions and improved error handling, add synergy support
 #
 
 set -o errexit
@@ -1390,3 +1390,4 @@ else
   [[ "$VERBOSE" = true ]] && print_sorted_details
   exit $OK
 fi
+
